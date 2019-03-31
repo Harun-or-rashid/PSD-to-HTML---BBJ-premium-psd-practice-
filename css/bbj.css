@@ -1,0 +1,206 @@
+*{
+	margin:  auto;
+	padding:0 px;
+	
+}
+.cp{
+	padding:20px;
+}
+.fr{
+	float: right;
+}
+.flow{
+	/*overflow: hidden;*/
+}
+.flow:after{
+	display: block;
+	clear: both;
+	content: "";
+}
+.flow:before{
+	display: block;
+	clear: both;
+	content: "";
+}
+.sp{
+	padding: 45px 0px 45px;
+}
+.fl{
+	float: left;
+}
+.c-text{
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.menu{
+	width: 100%;
+	height: px;
+	background-color: white;
+
+}
+.hero_area{
+	background-image: url(../image/heroarea/hreo1.jpg);
+	width: 1300px;
+	height: 600px;
+	background-repeat: no-repeat;
+
+}
+.hero_img{
+	
+	
+	
+}
+.btn{
+	text-decoration: none;
+	color: white;
+}
+.right{
+ margin:5px 15px 5px 5px ; 
+}
+.left {
+	margin-left: 183px;
+	padding: 33px 30px;
+	display: inline-block;
+}
+.left ul li {
+	list-style: none;
+	display: inline-block;
+}
+.left ul li a{
+	text-decoration: none;
+	padding: 0px 5px;
+	color: #898989;
+}
+.tag_text{
+	color: #838383;
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.txt_wraper\> h1 {
+	text-align: center;
+	position: absolute;
+	padding: 228px 311px 64px 741px;
+	font-size: 42px;
+	color: white;
+	font-weight: 398;
+}
+.simple_text1{
+color: #999999; 
+font-size: 15px;
+}
+
+.simple_text2{
+	padding-bottom: 15px;
+	color: #838383;
+	font-size: 18px;
+}
+.simple_text3 {
+	color: #02917f;
+	font-size: 24px;
+	padding-bottom: 18px;
+}
+.simple_para{
+	padding-bottom: 18px;
+	text-transform: none;
+	color: #cacaca;
+	font-size: 10px;
+}
+.urgent_btn li a{
+	color: white;
+}
+.urgent_btn{
+	color: white;
+	display: inline-block;
+	background-color: #1a2670;
+}
+.services {
+	/* width: 25%; */
+	/* height: 100px; */
+	float: left;
+	padding: 15px 248px 15px 165px;
+}
+.text_sevice {
+	/* float: left; */
+	display: inline-flex;
+
+}
+.arthroscopic {}
+.joint {
+	padding: 0px 9px;
+}
+.joint img:hover{
+	background-color: blue;
+}
+
+.question{
+
+}
+.question_section {
+	/* width: 100%; */
+	margin-left: 169px;
+}
+.qs{
+	float: left;
+	text-align: center;
+
+}
+.tag_text1{
+	
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #02917f;
+}
+.tag_text2{
+	
+	font-size: 15px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #02917f;
+}
+.maint{
+	text-align: center;
+}
+.ad{
+	float: left;
+}
+.ad p{
+font-size: 10px;
+}
+.ad h2{
+	font-size: 15px;
+	color: #1b2878;
+}
+
+.ad{
+	width: 33.33%;
+	float: left;
+}
+.ad h3{
+	font-size: 12px;
+	color: #1b2878;
+}
+.ad mid{
+	background-color: #9b9885;
+	border-radius: 50%;
+}
+.tright{
+	text-align: right;
+}
+.tleft{
+	text-align: left;
+}
+.list ul li{
+	list-style: none;
+}
+.list ul li a{
+	text-decoration: none;
+	text-transform: uppercase;
+	float: left;
+}
+.contact{
+	width: 25%;
+
+}
